@@ -9,6 +9,4 @@ website:
 
 format:
   html:
-    theme: minty
-    toc: true
-    number-sections: false
+    theme: [minty, default]
