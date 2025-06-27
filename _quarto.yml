@@ -9,4 +9,5 @@ website:
 
 format:
   html:
-    theme: [minty, default]
+    theme: minty
+    toc: true
