@@ -16,3 +16,11 @@ tibble(
   operacao = c("Compra PETR4", "Venda VALE3"),
   preco = c(34.2, 68.5)
 )
+```
+
+#teste
+
+```{r}
+hist(mtcars$mpg)
+```
+

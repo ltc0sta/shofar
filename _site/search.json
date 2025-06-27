@@ -1,9 +1,0 @@
-[
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Relatório Diário",
-    "section": "",
-    "text": "#| echo: false #| warning: false #| message: false\nlibrary(tidyverse)\n\nSimulação de relatório\ntibble( data = Sys.Date(), operacao = c(“Compra PETR4”, “Venda VALE3”), preco = c(34.2, 68.5) )"
-  }
-]
