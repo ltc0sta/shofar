@@ -1,9 +1,0 @@
-[
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Relatório Diário",
-    "section": "",
-    "text": "# A tibble: 2 × 3\n  data       operacao     preco\n  &lt;date&gt;     &lt;chr&gt;        &lt;dbl&gt;\n1 2025-06-27 Compra PETR4  34.2\n2 2025-06-27 Venda VALE3   68.5\n\n\n#teste\n\nhist(mtcars$mpg)"
-  }
-]
